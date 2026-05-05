@@ -74,11 +74,14 @@ author_profile: true
 
 - **Y. Sun**, W. Lin, R. Erban*  
   *Time delay can facilitate coherence in self-driven interacting-particle systems*  
-  **Physical Review E**, 2014  
+  **Physical Review E**, 2014
 
----
+  ---
 
-## 🔗 Academic Profiles
+## 🔗 More Publications
 
-- Google Scholar:https://scholar.google.com/citations?user=OKRfnCMAAAAJ&hl=zh-CN
-- ORCID: *(optional)*   https://orcid.org/0000-0001-9504-5663
+A complete and up-to-date list of publications is available on:
+
+- [Google Scholar](https://scholar.google.com/citations?user=OKRfnCMAAAAJ&hl=zh-CN)
+
+
