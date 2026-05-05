@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a full professor at School of Mathematics, China University of Mining and Technology. I am interested in understanding and predicting the behaviour of complex systems, particularly when network structures and environmental fluctuations are involved. Most of my work focuses on the concept of emergence—how large-scale patterns and collective behaviours arise from the interactions of individual components. In particular, I study network dynamics, the resilience of ecological networks, tipping point prediction, collective animal motion, consensus dynamics in multi-agent systems , aiming to uncover how interaction topologies and environmental noise shape emergent structures and functions in complex systems.
+I am a full professor at School of Mathematics, China University of Mining and Technology. I am interested in understanding and predicting the behaviour of complex systems, particularly when network structures and environmental fluctuations are involved. Most of my work focuses on the concept of emergence—how large-scale patterns and collective behaviours arise from the interactions of individual components. In particular, I study network control, collective animal motion, the resilience of ecological networks, consensus dynamics in multi-agent systems, and tipping point prediction, aiming to uncover how interaction topologies and environmental noise shape emergent structures and functions in complex systems.
 
 ---
 layout: archive
@@ -16,7 +16,6 @@ permalink: /research/
 
 ## Research Overview
 
-My research focuses on **network science and complex dynamical systems**, with an emphasis on how **structure, stochasticity, and delays** shape collective behaviors, resilience, and controllability.
 
 ---
 
