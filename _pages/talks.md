@@ -6,6 +6,14 @@ author_profile: true
 
 ## 🎤 Talks & Conference Presentations
 
+  Resilience and transient dynamics of ecological networks, Feb 2026, University of Bath, UK
+  
+  Oscillation and resilience of ecological netwoks, Sep 2025, School of Mathematics, Queen Mary University of London, UK 
+  
+  Transient Dynamics and control of ecological networks, May 2025, Department of Biology, University of Oxford
+  
+  Collective dynamics and control of networked systems，Dec 2024, Mathematical Institute, University of Oxford
+
 The 7th International Conference on Complex Networks and Their Applications, University of Cambridge, UK, 11–13 Dec 2018.  
 
 Applied Mathematics and Nonlinear Dynamics Seminar, University of Leeds, UK, 27 Feb 2018.  
