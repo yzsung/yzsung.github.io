@@ -30,7 +30,7 @@ S. Liu, J. Han, Y. Liu, T. Rogers*, **Y. Sun***. Predicting oscillations in comp
 
 R. Xiao, Q. Gao, S. Azaele, **Y. Sun***. Effects of noise on the critical points of Turing instability in complex ecosystems. Physical Review E, 2023, 108:014407. 👉 [DOI](https://doi.org/10.1103/PhysRevE.108.014407)
 
-X. Liu, M. Liu, D. Zhao, **Y. Sun***. Control of ecological networks: Abundance control or ecological regulation? Chaos, 2024, 34:073115. 👉 [DOI](https://doi.org/10.1063/5.0181234)
+X. Liu, M. Liu, D. Zhao, **Y. Sun***. Control of ecological networks: Abundance control or ecological regulation? Chaos, 2024, 34:073115. 👉 [DOI](https://doi.org/10.1063/5.0189874)
 
 ---
 
