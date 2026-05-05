@@ -1,5 +1,5 @@
 ---
-title: "Talks & Invited Presentations"
+title: ""
 permalink: /talks/
 author_profile: true
 ---
