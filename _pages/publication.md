@@ -22,7 +22,7 @@ M. Hong, H. Yang, Y. Qi, J. Wu, **Y. Sun***. Synchronization of Kuramoto-oscilla
 # 🌻🐝 Resilience of Ecological Networks
 
 
-**Y. Sun***, J. Wang, M. Qi, W. Lin, R. Salguero-Gómez*, P. K. Maini*. Tipping points and emergent phases of species diversity in mutualistic ecological networks under global warming. bioRxiv, 2026:2026.02.23.706386. 👉 DOI (preprint, no DOI yet)
+**Y. Sun***, J. Wang, M. Qi, W. Lin, R. Salguero-Gómez*, P. K. Maini*. Tipping points and emergent phases of species diversity in mutualistic ecological networks under global warming. bioRxiv, 2026:2026.02.23.706386. 👉 DOI (https://www.biorxiv.org/content/10.64898/2026.02.23.706386v2.abstract)
 
 X. Liu, M. Liu, D. Zhao, **Y. Sun***. Stability and reactivity of food webs with trophic interactions. Journal of Theoretical Biology, 2025, 613:112216. 👉 [DOI](https://doi.org/10.1016/j.jtbi.2025.112216)
 
