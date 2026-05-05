@@ -41,9 +41,9 @@ X. Liu, M. Liu, D. Zhao, **Y. Sun***. Control of ecological networks: Abundance 
 
 **Y. Sun***, W. Li, L. Li, et al. Delay-induced directional switches and mean switching time in swarming systems. Physical Review Research, 2022, 4:033054. 👉 [DOI](https://doi.org/10.1103/PhysRevResearch.4.033054)
 
-**Y. Sun***, W. Li, H. Shi, et al. Finite-time and fixed-time consensus of multiagent networks with pinning control and noise perturbation. SIAM Journal on Applied Mathematics, 2019, 79:111–130. 👉 [DOI](https://doi.org/10.1137/18M117488X)
+**Y. Sun***, W. Li, H. Shi, et al. Finite-time and fixed-time consensus of multiagent networks with pinning control and noise perturbation. SIAM Journal on Applied Mathematics, 2019, 79:111–130. 👉 [DOI](https://doi.org/10.1137/18M1174143)
 
-R. Erban*, J. Haskovec*, **Y. Sun***. A Cucker–Smale model with noise and delay. SIAM Journal on Applied Mathematics, 2016, 76:1535–1557. 👉 [DOI](https://doi.org/10.1137/15M1034623)
+R. Erban*, J. Haskovec*, **Y. Sun***. A Cucker–Smale model with noise and delay. SIAM Journal on Applied Mathematics, 2016, 76:1535–1557. 👉 [DOI](https://doi.org/10.1137/15M103046)
 
 **Y. Sun**, W. Lin, R. Erban*. Time delay can facilitate coherence in self-driven interacting-particle systems. Physical Review E, 2014, 90:062708. 👉 [DOI](https://doi.org/10.1103/PhysRevE.90.062708)
 
