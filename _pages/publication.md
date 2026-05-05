@@ -7,16 +7,15 @@ author_profile: true
 
 # 👥 Network Control
 
+Y. Sun, S. Leng, Y.-C. Lai, C. Grebogi, W. Lin. Closed-loop control of complex networks: A trade-off between time and energy. Physical Review Letters, 2017, 119:198301. 👉 [DOI](https://doi.org/10.1103/PhysRevLett.119.198301)
 
-Y. Sun, S. Leng, Y.-C. Lai, C. Grebogi, W. Lin. Closed-loop control of complex networks: A trade-off between time and energy. Physical Review Letters, 2017, 119:198301. 👉 https://doi.org/10.1103/PhysRevLett.119.198301
+N. Liang, M. Liu, **Y. Sun***, et al. Time and energy costs for synchronization of Kuramoto-oscillator networks with noise perturbation. SIAM Journal on Applied Mathematics, 2022, 82:1336–1355. 👉 [DOI](https://doi.org/10.1137/21M1457928)
 
-N. Liang, M. Liu, Y. Sun*, et al. Time and energy costs for synchronization of Kuramoto-oscillator networks with noise perturbation. SIAM Journal on Applied Mathematics, 2022, 82:1336–1355. 👉 https://doi.org/10.1137/21M1457928
+L. Zhao, H. Dai, C. Yang, J. Lu, **Y. Sun***. Tradeoff between time and energy costs for controlling stochastic coupled neural networks. IEEE Transactions on Automatic Control, 2023, 69:1112–1118. 👉 [DOI](https://doi.org/10.1109/TAC.2023.3281471)
 
-L. Zhao, H. Dai, C. Yang, J. Lu, Y. Sun*. Tradeoff between time and energy costs for controlling stochastic coupled neural networks. IEEE Transactions on Automatic Control, 2023, 69:1112–1118. 👉  https://doi.org/10.1109/TAC.2023.3281471
+M. Hong, H. Yang, Y. Qi, J. Wu, **Y. Sun***. Synchronization of Kuramoto-oscillator networks under event-triggered control with noise perturbation. Systems & Control Letters, 2024, 192:105884. 👉 [DOI](https://doi.org/10.1016/j.sysconle.2024.105884)
 
-M. Hong, H. Yang, Y. Qi, J. Wu, Y. Sun*. Synchronization of Kuramoto-oscillator networks under event-triggered control with noise perturbation. Systems & Control Letters, 2024, 192:105884. 👉 https://doi.org/10.1016/j.sysconle.2024.105884
-
-Y. Sun*, H. Yang, X. Yin, G. Wen, C. Yang. Time and energy costs for flocking of Cucker–Smale system under Denial-of-Service attacks. IEEE Transactions on Cybernetics, 2025, 56:537–546. 👉 https://doi.org/10.1109/TCYB.2025.3611156
+**Y. Sun***, H. Yang, X. Yin, G. Wen, C. Yang. Time and energy costs for flocking of Cucker–Smale system under Denial-of-Service attacks. IEEE Transactions on Cybernetics, 2025, 56:537–546. 👉 [DOI](https://doi.org/10.1109/TCYB.2025.3611156)
 
 ---
 
