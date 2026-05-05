@@ -4,7 +4,6 @@ permalink: /mycv/
 author_profile: true
 ---
 
-# 📄 Curriculum Vitae
 
 ---
 
