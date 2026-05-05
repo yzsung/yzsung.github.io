@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-# 🧠 Network Control
+# 👥 Network Control
 
 - **Y. Sun**, S. Leng, Y.-C. Lai, C. Grebogi, W. Lin  
   *Closed-loop control of complex networks: A trade-off between time and energy*  
@@ -30,7 +30,7 @@ author_profile: true
 
 ---
 
-# 🌱 Resilience of Ecological Networks
+# 🌻🐝 Resilience of Ecological Networks
 
 - **Y. Sun***, J. Wang, M. Qi, W. Lin, R. Salguero-Gómez*, P. K. Maini*  
   *Tipping points and emergent phases of species diversity in mutualistic ecological networks under global warming*  
@@ -54,7 +54,7 @@ author_profile: true
 
 ---
 
-# 🐦 Collective Behavior
+# 🦗🦗 Collective Behavior
 
 - **Y. Sun***, H. Wang, X. Liu, G. Wen*, W. Lin*, P. K. Maini*  
   *Networked collective dynamics in animal ecology and cell biology*  
