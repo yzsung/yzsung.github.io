@@ -25,9 +25,7 @@ permalink: /research/
   <img src="/images/networkcontrol.png" width="500">
 </p>
 
-How can we control large-scale complex networks using a minimal number of nodes? What are the fundamental limits imposed by time and energy constraints?
-
-My work develops a theoretical framework combining **control theory and statistical physics** to uncover trade-offs between control energy, time, and network structure.
+How can we control large-scale complex networks using a minimal number of nodes? What are the fundamental limits imposed by time and energy constraints? My work develops a theoretical framework combining **control theory and statistical physics** to uncover trade-offs between control energy, time, and network structure.
 
 ---
 
@@ -37,9 +35,7 @@ My work develops a theoretical framework combining **control theory and statisti
   <img src="/images/ecological_network.png" width="500">
 </p>
 
-How do ecosystems respond to environmental perturbations, and when do they collapse?
-
-I study how **network complexity and environmental heterogeneity** influence ecological resilience, identify tipping points, and design strategies for restoring stability under global change.
+How do ecosystems respond to environmental perturbations, and when do they collapse? I study how **network complexity and environmental heterogeneity** influence ecological resilience, identify tipping points, and design strategies for restoring stability under global change.
 
 ---
 
@@ -49,9 +45,7 @@ I study how **network complexity and environmental heterogeneity** influence eco
   <img src="/images/collective_behavior.jpeg" width="500">
 </p>
 
-How do coordinated patterns such as flocking, swarming, and synchronization emerge from local interactions?
-
-My research explores how **noise, delays, and nonlinear interactions** shape collective dynamics in both biological and engineered systems, including UAV swarms and multi-agent coordination.
+How do coordinated patterns such as flocking, swarming, and synchronization emerge from local interactions? My research explores how **noise, delays, and nonlinear interactions** shape collective dynamics in both biological and engineered systems, including UAV swarms and multi-agent coordination.
 
 ---
 
