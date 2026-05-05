@@ -23,8 +23,8 @@ repository               : "https://yzsung.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  name             : "Yongzheng Sun"
   pronouns         :  "He/him"  
   bio              : "Researcher in complex systems, network dynamics, and nonlinear science"
   location         : "China"
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : https://webofscience.clarivate.cn/wos/author/record/I-1502-2017
   scopus           : # URL
   zotero           : # URL
 
