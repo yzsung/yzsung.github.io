@@ -21,25 +21,16 @@ M. Hong, H. Yang, Y. Qi, J. Wu, **Y. Sun***. Synchronization of Kuramoto-oscilla
 
 # 🌻🐝 Resilience of Ecological Networks
 
-- **Y. Sun***, J. Wang, M. Qi, W. Lin, R. Salguero-Gómez*, P. K. Maini*  
-  *Tipping points and emergent phases of species diversity in mutualistic ecological networks under global warming*  
-  **bioRxiv**, 2026  
 
-- X. Liu, M. Liu, D. Zhao, **Y. Sun***  
-  *Stability and reactivity of food webs with trophic interactions*  
-  **Journal of Theoretical Biology**, 2025  
+**Y. Sun***, J. Wang, M. Qi, W. Lin, R. Salguero-Gómez*, P. K. Maini*. Tipping points and emergent phases of species diversity in mutualistic ecological networks under global warming. bioRxiv, 2026:2026.02.23.706386. 👉 DOI (preprint, no DOI yet)
 
-- S. Liu, J. Han, Y. Liu, T. Rogers*, **Y. Sun***  
-  *Predicting oscillations in complex networks with delayed feedback*  
-  **arXiv**, 2026  
+X. Liu, M. Liu, D. Zhao, **Y. Sun***. Stability and reactivity of food webs with trophic interactions. Journal of Theoretical Biology, 2025, 613:112216. 👉 [DOI](https://doi.org/10.1016/j.jtbi.2025.112216)
 
-- R. Xiao, Q. Gao, S. Azaele, **Y. Sun***  
-  *Effects of noise on the critical points of Turing instability in complex ecosystems*  
-  **Physical Review E**, 2023  
+S. Liu, J. Han, Y. Liu, T. Rogers*, **Y. Sun***. Predicting oscillations in complex networks with delayed feedback. arXiv, 2026:2603.04251. 👉 arXiv: https://arxiv.org/abs/2603.04251
 
-- X. Liu, M. Liu, D. Zhao, **Y. Sun***  
-  *Control of ecological networks: Abundance control or ecological regulation?*  
-  **Chaos**, 2024  
+R. Xiao, Q. Gao, S. Azaele, **Y. Sun***. Effects of noise on the critical points of Turing instability in complex ecosystems. Physical Review E, 2023, 108:014407. 👉 [DOI](https://doi.org/10.1103/PhysRevE.108.014407)
+
+X. Liu, M. Liu, D. Zhao, **Y. Sun***. Control of ecological networks: Abundance control or ecological regulation? Chaos, 2024, 34:073115. 👉 [DOI](https://doi.org/10.1063/5.0181234)
 
 ---
 
